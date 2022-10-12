@@ -1,0 +1,42 @@
+*{
+    border: none;
+    padding: none;
+    margin: none;
+    background-color: #3B4252;
+    color: white;
+}
+#PagesInput{
+    border: black;
+}
+
+#TitleWrapper{
+    margin: auto;
+    width: auto;
+    text-align: center;
+    border-bottom: 2px solid;
+    
+}
+
+#PageWrapper{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+}
+
+#InputButtonWrapper{
+    text-align: center;
+}
+
+#PagesInputWrapper{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+#PagesInput{
+    text-align: center;
+}
+
+#InputButton{
+    background-color: #4C566A;
+}
